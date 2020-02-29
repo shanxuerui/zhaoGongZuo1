@@ -6,7 +6,9 @@ package gitTest;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("四日");
-             System.out.println("二草");
+        System.out.println("三牛");
+             System.out.println("憨牛");
+                System.out.println("酸牛");
+           System.out.println("三牛蹲");
     }
 }
