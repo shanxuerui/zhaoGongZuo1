@@ -11,6 +11,6 @@ public class Test {
                 System.out.println("酸牛");
            System.out.println("大雪");
              System.out.println("二雪");
-    
     }
+
 }
