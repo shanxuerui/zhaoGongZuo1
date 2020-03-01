@@ -9,6 +9,8 @@ public class Test {
         System.out.println("三牛");
              System.out.println("憨牛");
                 System.out.println("酸牛");
-           System.out.println("三牛蹲");
+           System.out.println("大雪");
+             System.out.println("二雪");
+    }
     }
 }
