@@ -10,5 +10,6 @@ public class Test3 {
         System.out.println("大象");
                 System.out.println("愣愣");
         System.out.println("鄙人");
+        System.out.println("单胖子");
     }
 }
