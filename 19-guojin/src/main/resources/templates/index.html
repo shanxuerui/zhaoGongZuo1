@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>SpringBoot 集成Thymeleaf</title>
+</head>
+<body>
+
+
+
+<form th:action="@{|/index|}" method="post" enctype="multipart/form-data">
+
+
+    上传<input type="file" name="multipartFile"><br>
+
+    <input type="submit" value="提交">
+</form>
+
+</body>
